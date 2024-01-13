@@ -1,0 +1,13 @@
+
+nav[b-rrgs8976x5] {
+    background-color: #14149c;
+}
+
+[b-rrgs8976x5] .nav-link, [b-rrgs8976x5] .navbar-brand {
+    color: #dadada !important;
+}
+
+[b-rrgs8976x5] .nav-link.active {
+    color: #ffffff !important;
+    text-decoration: underline;
+}

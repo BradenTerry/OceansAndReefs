@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/braden/Projects/SOAR/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/braden/Projects/SOAR/obj/Debug/net8.0/compressed/15feesi4eu.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/braden/Projects/SOAR/obj/Debug/net8.0/scopedcss/bundle/SOAR.styles.css",
+      "PackagePath": "staticwebassets/SOAR.styles.css"
+    },
+    {
+      "Id": "/Users/braden/Projects/SOAR/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/braden/Projects/SOAR/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/braden/Projects/SOAR/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/braden/Projects/SOAR/wwwroot/images/ocean.jpeg",
+      "PackagePath": "staticwebassets/images/ocean.jpeg"
+    },
+    {
+      "Id": "/Users/braden/Projects/SOAR/wwwroot/images/scuba-divers.jpeg",
+      "PackagePath": "staticwebassets/images/scuba-divers.jpeg"
+    },
+    {
+      "Id": "/Users/braden/Projects/SOAR/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/braden/Projects/SOAR/wwwroot/soar.png",
+      "PackagePath": "staticwebassets/soar.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.SOAR.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.SOAR.props",
+      "PackagePath": "build\\SOAR.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SOAR.props",
+      "PackagePath": "buildMultiTargeting\\SOAR.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SOAR.props",
+      "PackagePath": "buildTransitive\\SOAR.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,13 @@
+
+nav {
+    background-color: #14149c;
+}
+
+::deep .nav-link, ::deep .navbar-brand {
+    color: #dadada !important;
+}
+
+::deep .nav-link.active {
+    color: #ffffff !important;
+    text-decoration: underline;
+}
