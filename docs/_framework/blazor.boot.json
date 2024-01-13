@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SOAR",
   "resources": {
-    "hash": "sha256-Zjc3Zpf4ws1gXdEkq5DDtCTrx59nsyldTxJFO6pOvn8=",
+    "hash": "sha256-eQacQXRx62HtLDL0U1y7EAjrFl/2W4BvMaoGbJrGQe0=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.n7arhd0t8z.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -31,7 +31,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-/9WKz7ByjPovQzt2+4IWEQQOFXa6Etm6+C8uymwfbpA=",
       "Microsoft.JSInterop.dll": "sha256-U8BaKtZ91bmfTH6uUDLZNxd/uMeF8+kTj3ZdYkno6bI=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-eVQ51rFmPFH/fTV48k8NH3vcsiUMqH+zrihPSE46DcI=",
-      "SOAR.dll": "sha256-OmlwNBc9SDBFSq1RWswK4nVFgtQiAfZ79WiesWJNnoo=",
+      "SOAR.dll": "sha256-le6TumTVA23GeSxmTrU29IoOVtRjIG+tP0laFc2+LJE=",
       "System.Collections.Concurrent.dll": "sha256-+q5yA2BamW1dT/KIjWbeaxPbXsLzRuf1w9+AAd5QUPA=",
       "System.Collections.dll": "sha256-i95UyZ4EobJl6D5CTk2JLY8ZLcrPi/NPlC/Jox1A9AM=",
       "System.ComponentModel.dll": "sha256-HTvoKIk6MU795HAcYTHvEDjJsNXuzdGO+IfR9BJMaxo=",
