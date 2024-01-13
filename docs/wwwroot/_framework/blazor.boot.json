@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SOAR",
   "resources": {
-    "hash": "sha256-ssEJi2QlvlhNZ+Q/Cpao0+s5FM06Sw2xMv/32jUrvN0=",
+    "hash": "sha256-CXHPXqajCyltSiO4WfDIsRZMog/8LP0hCRX7M+GA15I=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.n7arhd0t8z.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -31,7 +31,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-6187ynEahDlSLMBvD4vAmiLpZ3clRb5xu6rM7O8AxNo=",
       "Microsoft.JSInterop.wasm": "sha256-lXwhdv0Is9FMH/j0+WH3zoNWAGLbVaONtGucJ/4URQ0=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-CQVLCKiSxLN5ghyJZG3mhnMGRROdqrbNUjtAXB0nWb8=",
-      "SOAR.wasm": "sha256-PwrYrGpF0jfXlI0UNyqMygJpzqgJGQbeY6A1O+LE9j8=",
+      "SOAR.wasm": "sha256-SVj1YNjcuYR6GSAkBGmuCsaIMJx3jd2ilDCP3quh+6s=",
       "System.Collections.Concurrent.wasm": "sha256-/iT3Y71AMV0IxlknaXWQf8WJXGsB5oDfys+6PzvYG34=",
       "System.Collections.wasm": "sha256-At+zC8Yky7ODdUOl7TOgtaNL8Mq3CVTkbSOPWqTxedI=",
       "System.ComponentModel.wasm": "sha256-Kg+Te+dUBA6OiPS3uVj+Poyamhf9bMlcL96uc+bTYWc=",
